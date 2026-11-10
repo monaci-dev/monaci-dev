@@ -18,11 +18,11 @@
 <a href="mailto:info@monaci.ai">✉️ Contatti</a>
 </p>
 
-👋 Chi siamo
+## 👋 Chi siamo
 
 Monaci.ai sviluppa strumenti basati sull’intelligenza artificiale pensati per designer, creator e professionisti del digitale. Vogliamo rendere l’AI una parte naturale del processo creativo: meno passaggi ripetitivi, più tempo per le idee.
 
-📬 Lavoriamo insieme
+## 📬 Lavoriamo insieme
 
 Hai un'idea o vuoi collaborare?
 
